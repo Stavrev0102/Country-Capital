@@ -74,6 +74,7 @@ export default function CountryCapital({data}){
     }
     return (
         <div>
+            <h1>Simple Quiz</h1>
             {options.map((option) => (
                 // eslint-disable-next-line react/jsx-key
                 <button 
