@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-        <CountryCapital data={{Germany:'Berlin' , Azerbaijan:'Baku'}}/>
+        <CountryCapital data={{Germany:'Berlin' , Azerbaijan:'Baku', Bulgaria:'Sofia'}}/>
     </>
   )
 }
