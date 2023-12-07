@@ -70,3 +70,7 @@ button:focus-visible {
 .selected {
   background-color: #009bff;
 }
+.wrong {
+  background: red
+
+}
